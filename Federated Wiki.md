@@ -1,0 +1,1 @@
+Federated Wiki is one of the  minimal wii's we seek to write together with.
