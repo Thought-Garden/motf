@@ -1,3 +1,3 @@
 # Map of the Future
 
-Starts this Friday!
+Starts this Friday! I'm excited
