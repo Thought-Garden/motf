@@ -8,7 +8,9 @@ Event Details:
 Date: April 21, World Creativity  
 Day Time: 1-3PM GMT  
 Join Link: [https://us02web.zoom.us/meeting/register/tZ0ld-iqrD0tH9QoLIx0XO2_qtnA3eLMpgbD](https://us02web.zoom.us/meeting/register/tZ0ld-iqrD0tH9QoLIx0XO2_qtnA3eLMpgbD)
+
 ![[Motf_Invite_210423.jpeg]]
+
 During this event, we will present the Map of the Future project and its vision to harness the power of collective intelligence, transcending geographical and cultural boundaries. After the introduction, participants will have the opportunity to join breakout circles, focusing on various topic matters.
 
 Breakout circles include:
