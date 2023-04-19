@@ -1,0 +1,1 @@
+The `_images` folder is used to store images we use on wiki pages.
