@@ -1,1 +1,5 @@
-Federated Wiki is one of the  minimal wii's we seek to write together with.
+Federated Wiki is one of the  minimal wikis we seek to write together with.
+
+See: <http://fed.wiki.org/>
+
+We also love [[Massive Wiki]] and [[TiddlyWiki]].
