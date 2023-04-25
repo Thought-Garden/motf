@@ -10,5 +10,8 @@ The strategy is based on the radical premise that [[Everything is a LAO]]. A LAO
 - Imported into databases, especially vector or graph databases
 - Converted to NFTs, DAO'S or DAOs with legal personhood
 
+## Values
+The software strategy is based on the principle of the creation of a new form of incentivised community generated software commons. The choice of this strategy is based around the recognition that no single company, or open source project is able to easily create the diversity and sophistication of software modules the is required for projects such as [[Map of the Future]], or creating a [[digital incubator]] for the creative industries.
+
 ## Elements
 The strategy is based on the following elements:
