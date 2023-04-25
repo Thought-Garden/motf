@@ -1,0 +1,1 @@
+This market segment aims to create and promote events that transcend geographical and cultural boundaries, connecting people from around the world through virtual and hybrid experiences. By leveraging technology and innovative event formats, decentralized global events can foster collaboration, knowledge sharing, and cultural exchange on a global scale.
