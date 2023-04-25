@@ -6,9 +6,6 @@ ewqr
 
 ![[present.webm]]
 
-<audio controls>  
-  <source src="/present.webm" type="audio/webm">  
-  Your browser does not support the audio tag.  
-</audio>
+<audio controls> <source src="present.webm"> Your browser does not support the audio tag. </audio>
 
 fgds
