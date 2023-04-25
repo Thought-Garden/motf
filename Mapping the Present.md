@@ -5,13 +5,3 @@ Before we can map the future - we need to map the present - first because it is 
 ewqr
 
 ![[present.webm]]
-
-<<<<<<< HEAD
-OK
-
-<audio controls> <source src="present.webm"> Your browser does not support the audio tag. </audio>
-=======
-<audio controls><source src="present.webm"></audio>
->>>>>>> origin/main
-
-fgds
