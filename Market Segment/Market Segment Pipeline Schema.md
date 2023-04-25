@@ -55,3 +55,7 @@ For each market segement, please follow the market segement pipeline schema, to 
     -   Market-leading products within the market segment
     -   Innovative and emerging products in the market segment
     -   Reviews and comparisons of products in the market segment (e.g., consumer reports, expert reviews)
+9. Project
+	- Product Ideas
+	- Myths
+	- Brands & Ecosystems 
