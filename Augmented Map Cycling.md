@@ -12,7 +12,7 @@ A "map" in the sense we use it here loosely is a yet-to-be-defined form of diagr
 Furthermore, we are using the term "map" here to refer to more than a simple passive description of a body of information - maps in the context of [[Map of the Future]] are active or [[Perfomative]]. This feature of maps as implemented in the [[Map of the Future]] is described further in the section [[Every Map is a DAO]].
 
 ### Map in - Map out
-as
+This is the fundamental methodology for a [[Mapathon]], and is used whenever a mapathon is part of another event type (such as a [[Creatathon]]). The basic idea is that every mapathon workshop starts with a map (however simple), and results with a modified version of this map that is then sent somewhere (to another workshop, person or repository). As such a map is the fundamental product (form of documentation) of every mapathon. This enables the asynchronous growth of the mapping effort, and supports groups working in person, without good internet connection (or even offline entirely), as well as groups working in different time zones and across extended periods of time.
 
 ### Every Map is a DAO
 saf
