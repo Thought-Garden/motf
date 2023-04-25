@@ -1,3 +1,1 @@
-# David Bovill
-
 Hello - I'm here and yet to write a good intro about myself. I'm still in recovery mode from losing all my [[Federated Wiki]]s
