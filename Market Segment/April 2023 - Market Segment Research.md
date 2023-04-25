@@ -1,9 +1,11 @@
-[[Future Worldbuilding]]
+Please use [[Market Segment Pipeline Schema]] to research the following market segments:
 
-[[Collaborative Software Development]]
+- [[Future Worldbuilding]]
 
-[[Creative Computation]]
+- [[Collaborative Software Development]]
 
-[[Decentralized Events]]
+- [[Creative Computation]]
 
-[[Digital Incubator]]
+- [[Decentralized Events]]
+
+- [[Digital Incubator]]
