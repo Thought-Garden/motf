@@ -18,7 +18,7 @@ As Creative Computation continues to gain momentum, we can expect to see even mo
 ## Creative Computation Products
 Here's a list of potential creative computation products in the age of AI:
 
-1. AI-Assisted Creative Tools: AI algorithms can assist artists and designers in generating new ideas, analyzing existing works, and even collaborating with them to create unique pieces of art.
+1. [[AI-Assisted Creative Tools]]: AI algorithms can assist artists and designers in generating new ideas, analyzing existing works, and even collaborating with them to create unique pieces of art.
 
 2. Generative Art Software: Software that leverages algorithms and computational processes to generate unique visual patterns, structures, and forms.
 
