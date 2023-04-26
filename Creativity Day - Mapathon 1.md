@@ -1,5 +1,6 @@
 This is the first [[Map of the Future - Mapathon]] hosted by [[Map of the Future]]
 
+
 # Rundown
 
 ## Welcome - 20 mins
@@ -169,7 +170,7 @@ This final step in our Mapathon not only encourages collaboration but also stren
         -   -   Circle Mapping Discussion - First of Many
         -   Reflect, Research, Unite, Imagine, Create
     -   Mapathon
-    -   -   Channel on Discord
+    -   Channel on Discord
 -   Roadmap
 -    CCC Camp - Aug 15
 -   Events
