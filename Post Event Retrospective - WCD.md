@@ -28,7 +28,6 @@ This is the retrospective of the Creativity Day - Mapathon 1 event:
 	
 
 
-
 # Post-Event Improvements
 
 ## I. Post-Event Analysis
