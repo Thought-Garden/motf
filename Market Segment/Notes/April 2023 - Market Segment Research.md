@@ -8,7 +8,7 @@ Please use [[Market Segment Pipeline Schema]] to research the following market s
 
 3. [[Creative Computation]]
 
-4. [[Decentralized Event Network]]
+4. [[Decentralized Festival Network]]
 
 5. [[Digital Incubator]]
 
