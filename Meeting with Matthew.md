@@ -1,0 +1,4 @@
+- [ ] Market Segmentation Pipeline
+- [ ] Understanding of Roadmap
+- [ ] Strategy Week 
+	- [ ] 3/May - 12/May
