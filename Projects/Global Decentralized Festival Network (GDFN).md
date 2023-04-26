@@ -40,6 +40,6 @@ GDFN encourages cultural diversity and inclusivity by providing a blueprint for 
 
 By offering a comprehensive suite of features, including social networking capabilities, seamless coordination and communication, financial and contractual agreements, and customizable event experiences, the Global Decentralized Festival Network is poised to revolutionize the way we celebrate and connect with one another on a global scale.
 
-Future Developments:
+## Future Developments
 
 As the Global Decentralized Festival Network continues to grow and evolve, it will explore new opportunities for collaboration and innovation across various sectors, including art, entertainment, education, and technology. This will lead to the development of new products, services, and experiences that enrich the global cultural landscape and foster a more inclusive, interconnected, and vibrant global festival experience.
