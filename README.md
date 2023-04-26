@@ -1,8 +1,8 @@
 # Map of the Future
 
-Exploring the Map of the Future - Zoom Event
+Exploring the [[Map of the Future]] - Zoom Event
 
-Join us on Zoom for our World Creativity Day event on April 21 as we introduce the groundbreaking project, "Map of the Future." This decentralized global collaborative research project aims to bring together people from diverse industries, cultures, and backgrounds to create a functional and collective map of our shared future.
+Join us on Zoom for our World Creativity Day event on April 21 as we introduce the groundbreaking project, "[[Map of the Future]]." This decentralized global collaborative research project aims to bring together people from diverse industries, cultures, and backgrounds to create a functional and collective map of our shared future.
 
 Event Details:  
 Date: April 21, World Creativity  
@@ -11,7 +11,7 @@ Join Link: [https://us02web.zoom.us/meeting/register/tZ0ld-iqrD0tH9QoLIx0XO2_qt
 
 ![[Motf_Invite_210423.jpeg]]
 
-During this event, we will present the Map of the Future project and its vision to harness the power of collective intelligence, transcending geographical and cultural boundaries. After the introduction, participants will have the opportunity to join breakout circles, focusing on various topic matters.
+During this event, we will present the [[Map of the Future]] project and its vision to harness the power of collective intelligence, transcending geographical and cultural boundaries. After the introduction, participants will have the opportunity to join breakout circles, focusing on various topic matters.
 
 Breakout circles include:
 
@@ -24,4 +24,4 @@ Breakout circles include:
 7. Legal Tech: Explore the growing importance of legal technology and its potential to transform the legal landscape as artificial intelligence continues to advance.  
 8. Ecovillages: Discover the world of ecovillages and delve into how these intentional communities are pioneering sustainable living, fostering social harmony, and empowering individuals to live in harmony with nature.
 
-We look forward to seeing you at the event and exploring the Map of the Future together!
+We look forward to seeing you at the event and exploring the [[Map of the Future]] together!

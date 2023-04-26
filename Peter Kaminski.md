@@ -10,7 +10,7 @@ I hope my work on the projects here: helps others work together better; helps ot
 
 Some of my links:
 
-- [Massive Wiki](https://massive.wiki/) - a little bit about Massive Wiki, the system we're using to collaboratively build and publish this wiki website
+- [Massive Wiki](https://massive.wiki/) - a little bit about [[Massive Wiki]], the system we're using to collaboratively build and publish this wiki website
 - [peterkaminski.wiki](https://peterkaminski.wiki/) - a new wiki website I'm moving to
 - [peterkaminski.com](http://peterkaminski.com/) - my old web site
 - [https://toolsforthought.rocks/@peterkaminski](https://toolsforthought.rocks/@peterkaminski) - me on Mastodon

@@ -1,6 +1,19 @@
 # Map of the Future
 
-  
+# Description
+
+The Map of the Future is a decentralized global collaborative research project that brings together people from diverse industries, cultures, and backgrounds to create a functional and collective map of the future. This initiative aims to harness the power of collective intelligence, transcending geographical and cultural boundaries, to provide a comprehensive and inclusive vision of our shared future.
+
+# Vision
+
+To create, a functional, dynamic and interactive map, as a representation humanity's collective intelligence, imagination, hopes, and concerns for the future in the age of AI. This map will serve as a comprehensive foundation for a decentralized global collaboration ecosystem.
+
+# Mission
+
+To engage and unite individuals, communities, and organizations from diverse backgrounds and disciplines in the co-creation, exploration, and utilization of this living map. By fostering open communication, innovation, and knowledge-sharing, we aim to empower stakeholders to address global challenges, seize opportunities, and shape a sustainable, inclusive future for all in the age of AI.
+
+---
+
 
 The vision of the project is that we can, need and should at this time in future create a map - a map of the future. This map is intended to be a functional map, that millions of young people, institutions, governments, and companies are able to use to identify interesting, valuable, and important risks, dangers and inspiring opportunities for our individual and collective future. Humanity has been travelling for too long blind, it is time to give it a map.
 
@@ -70,17 +83,17 @@ These audio interviews with students, academics, artists and creative industry p
 
 We will devise an audio experience, and workshop format which produces a continuously steamed sound work, which features overlayed snippets of interviews, found sounds and material collected through the workshops, and woven creatively by musicians and artists into the work. In this sound work adverts are replaced by viral sound pieces, and with a simple tap of the finger on the mobile or your earbuds, the listener will be able to bookmark these clips for later and more in depth exploration. Each viral sound clip is structured as an atom, cell or foundational element of the map. Each sound clip is linked meaningfully to other clips through the map. Each clip is owned governed and tended by an artist, or group of individuals. Each clip is a concept, DAO or LAO in the Sound Garden and archived forever on the Anarchive - a federated database of such clips.
 
-Sound artists, will be empowered to mix, compose and remix works based on this material. The work is a collaboration between Moti, and Matt Kuderski. The concept was originated and then further elaborated by Matt Kuderski and David Bovill. We intend to launch this work as the first public manifestation of the Map of the Future.
+Sound artists, will be empowered to mix, compose and remix works based on this material. The work is a collaboration between Moti, and Matt Kuderski. The concept was originated and then further elaborated by Matt Kuderski and [[David Bovill]]. We intend to launch this work as the first public manifestation of the Map of the Future.
 
 From the perspective of the sound artist, the Map of the Future is a musical instrument - a massive sampler linked to an ever growing sound library of poetic and sonically rich content. Artificial intelligence, and a growing range of digital and analogue sound tools, are made available to the artists for them to compose, and perform live compositions. Running your finger over the map of the future generates a play list, and ambient musical mix reminiscent of the audio track for Wim Wenders Wings of Desire - where we can overhear the thoughts fears and dreams of individuals, or groups of individuals as we journey across space, where the space is the space of the future as envisaged by a particular community.
 
 ### The Anarchive
 
-The project will start simple, with a media collection pipeline that results in a tagged and organised cloud based archive (probably Dropbox Initially). Audio will be uploaded to the archive, and embedded in structured wiki pages (such as Notion, Dropbox Paper or Federated Wiki). Each wiki page will be named with a title of the concept-from-the-future, and the transcript stored as part of the text.
+The project will start simple, with a media collection pipeline that results in a tagged and organised cloud based archive (probably Dropbox Initially). Audio will be uploaded to the archive, and embedded in structured wiki pages (such as Notion, Dropbox Paper or [[Federated Wiki]]). Each wiki page will be named with a title of the concept-from-the-future, and the transcript stored as part of the text.
 
 This audio archive, while it starts simply, will evolve into an advanced federated archive of audio, indexed in a number of creative ways (see below). The Map of the Future is the interface to this archive that we call The Anarchive. The structure of this archive will be federated - that is there will be many interconnected archives, and many copies of the archived material held by artist and organisations at different locations. Each federated archive will be able to use its own database, search and archive and retrieval technology, and we will explore cooperations with a number of open source technology partners that are able to support this architecture.
 
-We aim to standardise of a minimal and flexible schema, that can be represented in json or markdown and is directly viewable and editable by a wide range of simple text editors and web browsers. Our aim is to be able to work with a wide range of active federated writing communities (such as federated wiki, TiddlyWiki wiki, Obsidian, massive wiki etc) as well as a number of cloud based platforms such as Notion, Coda, HackMD, Dropbox Paper etc such that outputs from workshops can be used as inputs to deliberations and workshops at a later time and location. Each file is able to flexibly represent a node in a distributed, federated or decentralised (cultural) knowledge graph, and has embedded within it a representation of its context structured as an embedded context graph. The Anarchive will experiment with a range of flexible, shifting and emergent ontologies expressed as a dialogue between context graphs whose high level expression is the Map of the Future.
+We aim to standardise of a minimal and flexible schema, that can be represented in json or markdown and is directly viewable and editable by a wide range of simple text editors and web browsers. Our aim is to be able to work with a wide range of active federated writing communities (such as federated wiki, [[TiddlyWiki]] wiki, Obsidian, massive wiki etc) as well as a number of cloud based platforms such as Notion, Coda, HackMD, Dropbox Paper etc such that outputs from workshops can be used as inputs to deliberations and workshops at a later time and location. Each file is able to flexibly represent a node in a distributed, federated or decentralised (cultural) knowledge graph, and has embedded within it a representation of its context structured as an embedded context graph. The Anarchive will experiment with a range of flexible, shifting and emergent ontologies expressed as a dialogue between context graphs whose high level expression is the Map of the Future.
 
 ### Media Pipeline
 

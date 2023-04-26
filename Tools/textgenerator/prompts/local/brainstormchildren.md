@@ -1,16 +1,16 @@
 ---
 PromptInfo:
  promptId: continueChilidren
- name: 🗞️ Continue writing with children 
+ name: 🗞 Continue
  description:
  tags: 
  version: 0.0.1
 ---
-content: 
-Children 
+content:  
+Background Information:
 {{#each children}} {{content}} {{/each}}
 
-Context:
+Content:
 {{context}}
 
 prompt:

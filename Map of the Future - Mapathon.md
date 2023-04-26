@@ -1,0 +1,6 @@
+- Mapathon is monthly mapping event for [[Map of the Future]]
+- What is a mapathon?
+- Stucture
+	- Personal Map
+	- Common Ground
+	- 
