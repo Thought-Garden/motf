@@ -3,4 +3,4 @@
 - Stucture
 	- Personal Map
 	- Common Ground
-	- 
+	-  Forming Circles
