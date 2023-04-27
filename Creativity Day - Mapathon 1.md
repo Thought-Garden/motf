@@ -17,7 +17,7 @@ Welcome to the Map of the Future Workshop! We're delighted to have you join us t
 -   -   Entrepreneur
     -   CEO of Moti - Creative Collaboration
     -   Excited to Run the first Mapathon
-    -   Introduce - Map of the Future (1st Time)
+    -   Introduce - [[Map of the Future]] (1st Time)
 
 ### Map of the Future Intro - 3 min
 
