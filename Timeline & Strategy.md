@@ -1,4 +1,8 @@
-
+---
+quickshare-date: 2023-04-27 09:29:17
+quickshare-url: "https://noteshare.space/note/clgyt0r5a444501pj2oyzreh8#PULmCYN0+xgxN6FUIrfz40J2M+3Q+0FHjZlMEiKyX+o"
+---
+# Upcoming Sprint Timeline
 - May 1 - May 6: Strategy Sprint
   - Develop Moti's global strategy, including timeline, budget, and key milestones
   - Create a compelling story for Moti's mission and goals
@@ -22,10 +26,11 @@
   - Execute the Mapathon event, leveraging the technology and mutual credit system to encourage participation and community building
   - Monitor event performance and gather feedback for continuous improvement
 
+# Phase Breakdown
 
 ### Phase 1: Setting up Minimial Viable Collaboration Infrastucture (May to August 2023)
 
-In the first phase, Moti will focus on using Map of the Future as a pilot project to lay the groundwork for collaboration and establish a minimal viable collaboration. This phase will be primarily dedicated to building the infrastructure, mechanisms, methodologies, products, and processes that will serve as the foundation for future growth and development.
+In the first phase, Moti will focus on using [[Map of the Future]] as a pilot project to lay the groundwork for collaboration and establish a minimal viable collaboration. This phase will be primarily dedicated to building the infrastructure, mechanisms, methodologies, products, and processes that will serve as the foundation for future growth and development.
 
 During this phase, Moti will prioritize developing the following [[Building blocks]]:
 1.  **Collaborative economy mechanism**: Develop mechanisms, such as mutual credit and slicing the pie, that enable nomads, collaborators, and strategic partners from across the world to form functional and cash-free collaborations.
