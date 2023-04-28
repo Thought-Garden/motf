@@ -1,7 +1,6 @@
 For each market segment, please follow the market segment pipeline schema, to create a pipeline for the following: 
 
 1.  Industry Reports
-    
     -   Market research reports (e.g., Gartner, Forrester, IDC)
     -   Industry-specific research organisations and think tanks
     -   Consultancy firms' research reports (e.g., Deloitte, PwC, McKinsey)
