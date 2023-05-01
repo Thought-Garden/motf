@@ -33,7 +33,7 @@ quickshare-url: "https://noteshare.space/note/clgyt0r5a444501pj2oyzreh8#PULmCYN0
 	- Component-based Strategy
 	- Internal Product vs Collaborative Product Development (confusion)
 - Targets
-	- - 20 Community leaders
+	- 20 Community leaders
 	- 100 Community leaders
 
 # Phase Breakdown
