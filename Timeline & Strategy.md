@@ -25,6 +25,16 @@ quickshare-url: "https://noteshare.space/note/clgyt0r5a444501pj2oyzreh8#PULmCYN0
 - June 1: Mapathon Event Launch
   - Execute the Mapathon event, leveraging the technology and mutual credit system to encourage participation and community building
   - Monitor event performance and gather feedback for continuous improvement
+  
+## To add
+- Missing Artists
+- Overlapping MVP prior to September
+	- Engage coders at CCC Camp
+	- Component-based Strategy
+	- Internal Product vs Collaborative Product Development (confusion)
+	- targets
+	- - 20 Communty leaders
+	- 100 Cpmmunity leaders
 
 # Phase Breakdown
 
