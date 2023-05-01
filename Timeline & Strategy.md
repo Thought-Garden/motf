@@ -38,7 +38,7 @@ quickshare-url: "https://noteshare.space/note/clgyt0r5a444501pj2oyzreh8#PULmCYN0
 
 # Phase Breakdown
 
-### Phase 1: Setting up Minimal Viable Collaboration Infrastucture (May to August 2023)
+### Phase 1: Setting up Minimal Viable Collaboration Infrastructure (May to August 2023)
 
 In the first phase, Moti will focus on using [[Map of the Future]] as a pilot project to lay the groundwork for collaboration and establish a minimal viable collaboration. This phase will be primarily dedicated to building the infrastructure, mechanisms, methodologies, products, and processes that will serve as the foundation for future growth and development.
 
