@@ -25,10 +25,20 @@ quickshare-url: "https://noteshare.space/note/clgyt0r5a444501pj2oyzreh8#PULmCYN0
 - June 1: Mapathon Event Launch
   - Execute the Mapathon event, leveraging the technology and mutual credit system to encourage participation and community building
   - Monitor event performance and gather feedback for continuous improvement
+  
+## To add
+- Missing Artists
+- Overlapping MVP prior to September
+	- Engage coders at CCC Camp
+	- Component-based Strategy
+	- Internal Product vs Collaborative Product Development (confusion)
+- Targets
+	- - 20 Community leaders
+	- 100 Community leaders
 
 # Phase Breakdown
 
-### Phase 1: Setting up Minimial Viable Collaboration Infrastucture (May to August 2023)
+### Phase 1: Setting up Minimal Viable Collaboration Infrastructure (May to August 2023)
 
 In the first phase, Moti will focus on using [[Map of the Future]] as a pilot project to lay the groundwork for collaboration and establish a minimal viable collaboration. This phase will be primarily dedicated to building the infrastructure, mechanisms, methodologies, products, and processes that will serve as the foundation for future growth and development.
 
