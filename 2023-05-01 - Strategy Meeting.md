@@ -107,6 +107,7 @@ By implementing the Gathering of Tribes Strategy, the project aims to create a d
 
 
 ### Artist Participation
+David mentioned that he feels the document is missing the involvement and participation of artists and people in the creative industry. He would like to see more explicit processes that include artists and their thinking in internal discussions, planning processes, and milestones.
 ### Community Leader Strategy
 -  Main Point: The community leader strategy focuses on identifying, recruiting, and engaging 100 community leaders by December, with an initial target of 15 to 20 leaders by September. These leaders will help promote and support the organization's events and initiatives.
 
