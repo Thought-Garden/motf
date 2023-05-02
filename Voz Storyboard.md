@@ -71,6 +71,12 @@ The community continually works to improve and expand the Invisible Finance Jour
 6. Hands - Infrastucture : Conversational Intelligence, DAO Incubation, Studio App
 7. Agora Workshop
 
+## Visual Ideas
+- Paying into Calendar Event
+- Building an Island Together (Meeting Space) Puzzle/ Lego Style
+- 1 Voz - What can 1 Voz Buy
+- 1 Voz - $50
+
 # Slide 1 - The Member Pays
 
 -   As a dedicated community member, I contribute 1 voz to attend the townhall meeting, demonstrating my commitment and active involvement in our thriving community.
@@ -93,7 +99,7 @@ The community continually works to improve and expand the Invisible Finance Jour
 
 -   As a speaker, I share my expertise and experiences, sparking thought-provoking discussions and inspiring new ideas among community members.
 
-## Musician
+## Artist
 
 -   As a musician, I contribute my artistic talents, creating a vibrant atmosphere that fosters creativity and connection within our community.
 
@@ -113,7 +119,22 @@ The community continually works to improve and expand the Invisible Finance Jour
 
 # Slide 6 - Hands
 
-## Conversational Intelligence
+## Organizers
+
+-   As the dedicated organizers creating and running local or online events, we ensure that each gathering runs smoothly and effectively. In recognition of our efforts, we are rewarded with Voz for hosting these events.
+
+## Spaces
+
+-   The generous venues that provide and sponsor spaces for our events, such as theaters, co-working spaces, and salons, play a crucial role in our community's growth. These venues are also compensated with Voz for their invaluable contributions.
+
+## Engineers
+
+-   Our skilled engineers work tirelessly to build and maintain the infrastructure necessary for hosting successful events. Their expertise and dedication are essential to our community's success, and they too are rewarded with Voz for their efforts.
+
+
+
+# Slide 7 - Infrastructure 
+## Conversation Mapping
 
 -   By leveraging AI and meeting documentation, we enhance communication within our community, ensuring that everyone's voice is heard and valued.
 
@@ -121,6 +142,44 @@ The community continually works to improve and expand the Invisible Finance Jour
 
 -   Our DAO incubation process enables quick and efficient collaboration among members, empowering us to make collective decisions and drive our community forward.
 
-## Studio App
+## Decentralized Local Festival Network
 
 -   With the help of the Studio App, we streamline the technical aspects of hosting events and meetings, supporting our community's growth and development as we continue to thrive together.
+
+
+# Slide 8 - Agora
+
+
+
+
+
+---
+
+## Sci-Fi Brand
+## Digital Investment Shows
+## Art Piece
+## Research Project
+## Digitial Incubator
+##  Mapathon
+
+---
+
+## Incubation (Fundraising) Voyage as a Format
+
+## Crowdfunding for Grassroot Art Projects
+
+### FEZ
+
+---
+# Incubation Focus
+## Game & AI
+## Film
+## Decentralized Events
+## Myths
+
+---
+# Model Map
+# Market Segementation
+# 
+
+
