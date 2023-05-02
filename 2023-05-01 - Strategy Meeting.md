@@ -80,7 +80,7 @@ The Gathering of Tribes Strategy is a proposal to bring together different group
 
 ##### 2. Shared Narrative
 
--   Combine multiple stories, such as "Map of the Future," "A Billion Dowels," and "Gathering of Tribes," to create a unified narrative that showcases how the tribes are working together.
+-   Combine multiple stories, such as "Map of the Future," "A Billion DAOs," and "Gathering of Tribes," to create a unified narrative that showcases how the tribes are working together.
 -   Emphasize the message of love, support, and collaboration among the tribes.
 
 ##### 3. Joint Ventures and Slicing the Pie
