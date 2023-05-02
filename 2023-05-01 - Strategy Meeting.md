@@ -386,6 +386,7 @@ The team should establish Key Performance Indicators (KPIs) and deadlines for va
 The team must find a balance between the timing of consolidation and the overall strategy of the company. This involves considering the progress of each project, the resources available, and the potential benefits and drawbacks of consolidating at different points in time.
 
 
+
 # Notes
 ---
 1. Studio Strategy

@@ -1,6 +1,6 @@
 ---
-quickshare-date: 2023-04-27 09:29:17
-quickshare-url: "https://noteshare.space/note/clgyt0r5a444501pj2oyzreh8#PULmCYN0+xgxN6FUIrfz40J2M+3Q+0FHjZlMEiKyX+o"
+quickshare-date: 2023-05-02 11:23:12
+quickshare-url: "https://noteshare.space/note/clh62aidc200201pj86pv9319#ApXGLsLuVMkQNmmSJsiqOo/7CdmceAfEpxJO5G37kbM"
 ---
 # Upcoming Sprint Timeline
 - May 1 - May 6: Strategy Sprint
