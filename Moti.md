@@ -13,6 +13,7 @@ Moti is a dynamic platform that focuses on developing and providing the tools an
 At the heart of Moti's approach is the development of technology infrastructure, event organization capabilities, and community collaboration frameworks that facilitate seamless cooperation between diverse groups and individuals. By empowering communities and individuals with the means to work together, Moti unlocks the potential of collective intelligence, paving the way for a brighter, more sustainable future.
 
 ## Infrastucture
-1.  Collaborative economy mechanisms: We create systems like mutual credit and slicing the pie, which allow nomads, collaborators, and strategic partners worldwide to form functional and cash-free collaborations.
-2.  Decentralized event production infrastructure: We design an infrastructure that enables events to be hosted locally in various locations across the world. Media gathered from different spaces interoperate and connect as a global festival, fostering collaboration and idea exchanges
-3.  Digital incubator: We develop processes needed for different communities to incubate products and ideas that address their needs through a robust, rigorous, and enjoyable business process.
+1. Collaborative economy mechanisms: We create systems like mutual credit and slicing the pie, which allow nomads, collaborators, and strategic partners worldwide to form functional and cash-free collaborations.
+2. Decentralized event production infrastructure: We design an infrastructure that enables events to be hosted locally in various locations across the world. Media gathered from different spaces interoperate and connect as a global festival, fostering collaboration and idea exchanges
+3. Digital incubator: We develop processes needed for different communities to incubate products and ideas that address their needs through a robust, rigorous, and enjoyable business process.
+4. Open Knowledge Platform: A foundation built on open knowledge resources, encouraging global collaboration and contribution from diverse individuals and communities.
