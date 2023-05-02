@@ -20,7 +20,6 @@ During the meeting, the team reviewed the timeline and strategy document that Pa
 
 ## Matthew
 ### Separating Product Planning Phase
-
 #### Overview
 
 Matthew emphasized the importance of separating the product planning phase into distinct stages, specifically highlighting the need to differentiate between Phase 1 and Phase 2. He believes that a clear demarcation between these phases will help the team better understand the project's progress and ensure a smoother transition between stages.
