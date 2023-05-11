@@ -147,9 +147,31 @@ The community continually works to improve and expand the Invisible Finance Jour
 -   With the help of the Studio App, we streamline the technical aspects of hosting events and meetings, supporting our community's growth and development as we continue to thrive together.
 
 
-# Slide 8 - Agora
+# Slide 8 - Map
 
 
+
+# Notes
+
+- Investment
+	- Moti
+	- Audex
+	- CIL
+---
+- Members
+	- Pay 1 Voz (20 Members - 20 Voz)
+- Partners
+	- Imaguru (Space) - 2 Voz
+		- From Event DAO
+			- Decentralized Space Setup 
+	- Mona (Faciliator) - 6
+		- From Event DAO
+			- Training & Event Program
+	- Moti (Organizer) - 6
+	- Alex (Speaker) - 6
+- Services Provided
+	- Audex 
+	- 
 
 
 

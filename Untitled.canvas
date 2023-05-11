@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"baa9f133bec383fa","x":-600,"y":-420,"width":560,"height":400,"type":"file","file":"Voz Storyboard.md"},
+		{"id":"1e408b5f7092bf6f","x":200,"y":-120,"width":400,"height":400,"type":"file","file":"Projects/Voz.md"}
+	],
+	"edges":[
+		{"id":"e16063c83f4c0a46","fromNode":"baa9f133bec383fa","fromSide":"right","toNode":"1e408b5f7092bf6f","toSide":"left"}
+	]
+}
