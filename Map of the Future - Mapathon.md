@@ -1,6 +1,3 @@
-- Mapathon is monthly mapping event for [[Map of the Future]]
-- What is a mapathon?
-	-
 
 Mapathon is a futuristic concept that involves mapping out the world in a more detailed and accurate manner. This concept has been gaining popularity in recent years, particularly among tech enthusiasts and environmentalists who are concerned about the impact of human activities on the planet.
 

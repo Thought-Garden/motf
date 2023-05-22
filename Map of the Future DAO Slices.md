@@ -1,3 +1,4 @@
+
 # Business Model
 ## Not for Profit
 ## Social Media Mobile Religon
@@ -7,16 +8,12 @@
 
 # Slices
 ## Artwork
-## Event Production
-## Branding, PR and Marketing
+## Event Production - Mapathon
+## PR and Marketing
 ## Infrastructure
-### Frontend 
-#### Visualization
-### Backend 
-## Investors
 ## Fundraising
 ## Legal and Business
-## Spinoffs
+## Catalyst
 
 # Map of the Future Blueprint
 The Map of the Future is an ambitious global project aimed at involving 60-80% of all universities and schools worldwide. The goal is to engage the world's best academics, professors, blockchain experts, and other professionals in developing the future of the United Nations, nation-states, sustainable development goals, ethical purpose, and even the future of religion. The map will consist of a billion rounds, with each DAO representing a piece of creativity and joy, reflecting the dreams and aspirations of every individual on the planet.
@@ -40,6 +37,16 @@ By engaging these three layers of designers, the Map of the Future project aims 
 ## Curation
 ## Memberships
 
+---
+
+# Map of the Future 
+
+## Blueprint
+The Map of the Future project is a non-profit initiative that aims to unite individuals, communities, and organizations from diverse backgrounds in the co-creation of a living, functional, and interactive map representing humanity's collective intelligence, imagination, hopes, and concerns for the future in the age of AI. By fostering open communication, innovation, and knowledge-sharing, this non-profit project seeks to empower stakeholders to address global challenges, seize opportunities, and shape a sustainable, inclusive future for all, transcending geographical and cultural boundaries to create a comprehensive and inclusive vision of our shared future.
+
+## Business Models
+### Market Research
+The Map of the Future project can leverage its vast repository of data and insights to offer market research services to businesses, governments, and organizations. By providing valuable information on emerging trends, consumer behavior, and industry dynamics, the project can generate revenue through market research reports, consulting services, and data analytics solutions.
 
 
 
@@ -50,7 +57,16 @@ By engaging these three layers of designers, the Map of the Future project aims 
 
 
 
-#
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -58,3 +74,11 @@ By engaging these three layers of designers, the Map of the Future project aims 
 - CV
 - Linkedin
 - Marko
+
+## Slices
+## Artwork
+### Narrative and Storytelling
+### Collaborative Creation
+### Artistic Representation
+
+
