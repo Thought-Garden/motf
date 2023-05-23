@@ -1,3 +1,7 @@
+---
+quickshare-date: 2023-05-23 00:03:54
+quickshare-url: "https://noteshare.space/note/clhzgeyui2208501pj8q2hjcq3#xLl2bHdNSMdcSkZMgi+E/sPhh0WL71QepjSjn8KZhoQ"
+---
 # Darvoz
 
 Darvoz, a decentralized financial conference, is scheduled to coincide with the World Economic Forum in Davos from January 15-19, 2024. By aligning with this significant event, Darvoz aims to create a parallel platform that empowers grassroots communities, students, startup entrepreneurs, and skilled professionals. Through collaboration, knowledge sharing, and resource exchange, participants can self-organize and collectively work towards a more equitable world, fostering a vibrant ecosystem where diverse voices unite to shape an inclusive and innovative financial landscape for the future.

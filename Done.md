@@ -1,0 +1,3 @@
+- 23 May, 2023 (Tuesday)
+- 22 May, 2023 (Monday)
+	- [[Proposal to Lexon]]
