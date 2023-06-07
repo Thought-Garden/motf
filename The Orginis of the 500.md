@@ -1,0 +1,11 @@
+**The Origins of the 500**
+
+In the genesis of democracy, the wise Solon passed on the first laws, entrusting their interpretation to 400 representatives, elected from the aristocracy by the demos, the people. Yet, this was but the dawn of a dynamic, evolving system.
+
+It was during the era of Cleisthenes that the power of the aristocracy was truly shattered, and democracy as we understand it today began to take shape. In an act of astounding innovation and foresight, Cleisthenes restructured the city-state of Athens into 10 tribes, each named not after the powerful aristocratic families of old, but after mythical heroes of the Greek past. Furthermore, he partitioned Athens into three regions: the coast, the city, and the inland, ensuring that each tribe was evenly represented across these regions. This act of decentralization and democratization established a sense of unity and equality among the Athenian people.
+
+In the spirit of Cleisthenes, we have chosen to establish 500 spaces across the globe. Like the 500 senators of Athens who were the true representatives of their tribes, our 500 spaces will be the standard-bearers of our mission, a mission aimed at creating a more equitable and inclusive economic landscape. Each of these 500 spaces will be named not after their hosts or benefactors, but after the ideals and aspirations they represent.
+
+Like the deans of Athens who played crucial roles in leading their tribes, each of our 500 spaces will have designated leaders responsible for nurturing the spirit of innovation and collaboration. The leaders will guide their respective spaces in organizing monthly events leading up to Darvoz, with the aim of fostering a dynamic dialogue around reimagining the future of finance.
+
+The story of our 500 spaces is not just about numbers or locations; it's a tribute to the timeless principles of democracy, inclusivity, and equitable representation. Just as the restructuring of Athens under Cleisthenes led to a shift in power dynamics and the dawn of democracy, our 500 spaces, scattered across the globe, stand poised to instigate a paradigm shift in our economic discourse. We envision a future where every voice counts, every idea matters, and everyone has an equal stake in shaping our collective destiny.

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="735pt" height="548pt" viewBox="0.00 0.00 734.86 548.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 544)">
+<title>G</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-544 730.8575,-544 730.8575,4 -4,4"/>
+<!-- Heart&#45;conscious living -->
+<g id="node1" class="node">
+<title>Heart-conscious living</title>
+<ellipse fill="none" stroke="#000000" cx="432.8575" cy="-450" rx="98.9552" ry="18"/>
+<text text-anchor="middle" x="432.8575" y="-445.8" font-family="Times,serif" font-size="14.00" fill="#000000">Heart-conscious living</text>
+</g>
+<!-- Purposeful leadership -->
+<g id="node2" class="node">
+<title>Purposeful leadership</title>
+<ellipse fill="none" stroke="#000000" cx="218.8575" cy="-378" rx="94.9436" ry="18"/>
+<text text-anchor="middle" x="218.8575" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">Purposeful leadership</text>
+</g>
+<!-- Heart&#45;conscious living&#45;&gt;Purposeful leadership -->
+<g id="edge1" class="edge">
+<title>Heart-conscious living-&gt;Purposeful leadership</title>
+<path fill="none" stroke="#000000" d="M385.6294,-434.1102C353.1411,-423.1795 309.8283,-408.607 275.4855,-397.0524"/>
+<polygon fill="#000000" stroke="#000000" points="276.1906,-393.5969 265.5966,-393.7253 273.9584,-400.2315 276.1906,-393.5969"/>
+</g>
+<!-- Spiritual growth -->
+<g id="node3" class="node">
+<title>Spiritual growth</title>
+<ellipse fill="none" stroke="#000000" cx="432.8575" cy="-378" rx="74.1348" ry="18"/>
+<text text-anchor="middle" x="432.8575" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">Spiritual growth</text>
+</g>
+<!-- Heart&#45;conscious living&#45;&gt;Spiritual growth -->
+<g id="edge2" class="edge">
+<title>Heart-conscious living-&gt;Spiritual growth</title>
+<path fill="none" stroke="#000000" d="M432.8575,-431.8314C432.8575,-424.131 432.8575,-414.9743 432.8575,-406.4166"/>
+<polygon fill="#000000" stroke="#000000" points="436.3576,-406.4132 432.8575,-396.4133 429.3576,-406.4133 436.3576,-406.4132"/>
+</g>
+<!-- Self&#45;organization -->
+<g id="node4" class="node">
+<title>Self-organization</title>
+<ellipse fill="none" stroke="#000000" cx="218.8575" cy="-306" rx="78.1462" ry="18"/>
+<text text-anchor="middle" x="218.8575" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">Self-organization</text>
+</g>
+<!-- Purposeful leadership&#45;&gt;Self&#45;organization -->
+<g id="edge3" class="edge">
+<title>Purposeful leadership-&gt;Self-organization</title>
+<path fill="none" stroke="#000000" d="M218.8575,-359.8314C218.8575,-352.131 218.8575,-342.9743 218.8575,-334.4166"/>
+<polygon fill="#000000" stroke="#000000" points="222.3576,-334.4132 218.8575,-324.4133 215.3576,-334.4133 222.3576,-334.4132"/>
+</g>
+<!-- Collaborative work -->
+<g id="node5" class="node">
+<title>Collaborative work</title>
+<ellipse fill="none" stroke="#000000" cx="85.8575" cy="-162" rx="85.7153" ry="18"/>
+<text text-anchor="middle" x="85.8575" y="-157.8" font-family="Times,serif" font-size="14.00" fill="#000000">Collaborative work</text>
+</g>
+<!-- Purposeful leadership&#45;&gt;Collaborative work -->
+<g id="edge4" class="edge">
+<title>Purposeful leadership-&gt;Collaborative work</title>
+<path fill="none" stroke="#000000" d="M180.5538,-361.2852C163.6972,-352.3079 144.8239,-339.8056 131.8575,-324 99.9281,-285.079 90.1402,-225.2262 87.1536,-190.2072"/>
+<polygon fill="#000000" stroke="#000000" points="90.6412,-189.9083 86.4281,-180.1872 83.6595,-190.4139 90.6412,-189.9083"/>
+</g>
+<!-- Professional growth -->
+<g id="node15" class="node">
+<title>Professional growth</title>
+<ellipse fill="none" stroke="#000000" cx="491.8575" cy="-234" rx="88.5824" ry="18"/>
+<text text-anchor="middle" x="491.8575" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">Professional growth</text>
+</g>
+<!-- Spiritual growth&#45;&gt;Professional growth -->
+<g id="edge16" class="edge">
+<title>Spiritual growth-&gt;Professional growth</title>
+<path fill="none" stroke="#000000" d="M434.4068,-359.7034C436.5129,-340.9989 441.308,-311.4467 451.8575,-288 456.3096,-278.1052 462.8059,-268.2731 469.2736,-259.7639"/>
+<polygon fill="#000000" stroke="#000000" points="472.1683,-261.7471 475.655,-251.7424 466.6903,-257.3891 472.1683,-261.7471"/>
+</g>
+<!-- Decentralization -->
+<g id="node6" class="node">
+<title>Decentralization</title>
+<ellipse fill="none" stroke="#000000" cx="310.8575" cy="-234" rx="74.6937" ry="18"/>
+<text text-anchor="middle" x="310.8575" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">Decentralization</text>
+</g>
+<!-- Self&#45;organization&#45;&gt;Decentralization -->
+<g id="edge5" class="edge">
+<title>Self-organization-&gt;Decentralization</title>
+<path fill="none" stroke="#000000" d="M241.1282,-288.5708C252.9938,-279.2847 267.7601,-267.7285 280.6455,-257.6442"/>
+<polygon fill="#000000" stroke="#000000" points="283.074,-260.1881 288.792,-251.2687 278.7598,-254.6755 283.074,-260.1881"/>
+</g>
+<!-- Autonomy -->
+<g id="node7" class="node">
+<title>Autonomy</title>
+<ellipse fill="none" stroke="#000000" cx="165.8575" cy="-234" rx="52.1925" ry="18"/>
+<text text-anchor="middle" x="165.8575" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">Autonomy</text>
+</g>
+<!-- Self&#45;organization&#45;&gt;Autonomy -->
+<g id="edge6" class="edge">
+<title>Self-organization-&gt;Autonomy</title>
+<path fill="none" stroke="#000000" d="M205.7564,-288.2022C199.4666,-279.6576 191.8102,-269.2564 184.8927,-259.859"/>
+<polygon fill="#000000" stroke="#000000" points="187.5549,-257.5715 178.808,-251.593 181.9175,-261.7213 187.5549,-257.5715"/>
+</g>
+<!-- New Earth -->
+<g id="node11" class="node">
+<title>New Earth</title>
+<ellipse fill="none" stroke="#000000" cx="441.8575" cy="-18" rx="52.6866" ry="18"/>
+<text text-anchor="middle" x="441.8575" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">New Earth</text>
+</g>
+<!-- Collaborative work&#45;&gt;New Earth -->
+<g id="edge18" class="edge">
+<title>Collaborative work-&gt;New Earth</title>
+<path fill="none" stroke="#000000" d="M111.5691,-144.789C142.1991,-124.9257 195.4501,-92.3847 244.8575,-72 291.0961,-52.9227 346.1848,-38.4749 386.335,-29.3464"/>
+<polygon fill="#000000" stroke="#000000" points="387.2104,-32.7372 396.2064,-27.1406 385.6838,-25.9056 387.2104,-32.7372"/>
+</g>
+<!-- Supportive network -->
+<g id="node13" class="node">
+<title>Supportive network</title>
+<ellipse fill="none" stroke="#000000" cx="611.8575" cy="-162" rx="87.4444" ry="18"/>
+<text text-anchor="middle" x="611.8575" y="-157.8" font-family="Times,serif" font-size="14.00" fill="#000000">Supportive network</text>
+</g>
+<!-- Decentralization&#45;&gt;Supportive network -->
+<g id="edge12" class="edge">
+<title>Decentralization-&gt;Supportive network</title>
+<path fill="none" stroke="#000000" d="M363.9774,-221.2936C414.3433,-209.2459 490.2084,-191.0988 544.737,-178.0554"/>
+<polygon fill="#000000" stroke="#000000" points="545.748,-181.4124 554.6594,-175.6819 544.1195,-174.6044 545.748,-181.4124"/>
+</g>
+<!-- Autonomy&#45;&gt;Collaborative work -->
+<g id="edge19" class="edge">
+<title>Autonomy-&gt;Collaborative work</title>
+<path fill="none" stroke="#000000" d="M146.8987,-216.937C136.7624,-207.8144 124.1061,-196.4237 112.9501,-186.3833"/>
+<polygon fill="#000000" stroke="#000000" points="115.2901,-183.7806 105.5158,-179.6924 110.6074,-188.9836 115.2901,-183.7806"/>
+</g>
+<!-- Regenerative socio&#45;economic systems -->
+<g id="node8" class="node">
+<title>Regenerative socio-economic systems</title>
+<ellipse fill="none" stroke="#000000" cx="347.8575" cy="-162" rx="158.5463" ry="18"/>
+<text text-anchor="middle" x="347.8575" y="-157.8" font-family="Times,serif" font-size="14.00" fill="#000000">Regenerative socio-economic systems</text>
+</g>
+<!-- Harmony with nature -->
+<g id="node9" class="node">
+<title>Harmony with nature</title>
+<ellipse fill="none" stroke="#000000" cx="347.8575" cy="-90" rx="93.763" ry="18"/>
+<text text-anchor="middle" x="347.8575" y="-85.8" font-family="Times,serif" font-size="14.00" fill="#000000">Harmony with nature</text>
+</g>
+<!-- Regenerative socio&#45;economic systems&#45;&gt;Harmony with nature -->
+<g id="edge7" class="edge">
+<title>Regenerative socio-economic systems-&gt;Harmony with nature</title>
+<path fill="none" stroke="#000000" d="M347.8575,-143.8314C347.8575,-136.131 347.8575,-126.9743 347.8575,-118.4166"/>
+<polygon fill="#000000" stroke="#000000" points="351.3576,-118.4132 347.8575,-108.4133 344.3576,-118.4133 351.3576,-118.4132"/>
+</g>
+<!-- Resource sharing -->
+<g id="node10" class="node">
+<title>Resource sharing</title>
+<ellipse fill="none" stroke="#000000" cx="536.8575" cy="-90" rx="77.6097" ry="18"/>
+<text text-anchor="middle" x="536.8575" y="-85.8" font-family="Times,serif" font-size="14.00" fill="#000000">Resource sharing</text>
+</g>
+<!-- Regenerative socio&#45;economic systems&#45;&gt;Resource sharing -->
+<g id="edge8" class="edge">
+<title>Regenerative socio-economic systems-&gt;Resource sharing</title>
+<path fill="none" stroke="#000000" d="M393.6092,-144.5708C421.779,-133.8394 457.9073,-120.0763 486.8333,-109.0569"/>
+<polygon fill="#000000" stroke="#000000" points="488.2461,-112.2641 496.3449,-105.4334 485.754,-105.7227 488.2461,-112.2641"/>
+</g>
+<!-- Harmony with nature&#45;&gt;New Earth -->
+<g id="edge9" class="edge">
+<title>Harmony with nature-&gt;New Earth</title>
+<path fill="none" stroke="#000000" d="M371.0935,-72.2022C383.5199,-62.6842 398.9537,-50.8625 412.2336,-40.6907"/>
+<polygon fill="#000000" stroke="#000000" points="414.3672,-43.4652 420.1777,-34.6058 410.1106,-37.9081 414.3672,-43.4652"/>
+</g>
+<!-- Resource sharing&#45;&gt;New Earth -->
+<g id="edge20" class="edge">
+<title>Resource sharing-&gt;New Earth</title>
+<path fill="none" stroke="#000000" d="M513.8607,-72.5708C501.2187,-62.9895 485.3878,-50.9914 471.7918,-40.687"/>
+<polygon fill="#000000" stroke="#000000" points="473.7474,-37.7776 463.6636,-34.5267 469.5193,-43.3564 473.7474,-37.7776"/>
+</g>
+<!-- Ubuntu philosophy -->
+<g id="node12" class="node">
+<title>Ubuntu philosophy</title>
+<ellipse fill="none" stroke="#000000" cx="579.8575" cy="-522" rx="85.184" ry="18"/>
+<text text-anchor="middle" x="579.8575" y="-517.8" font-family="Times,serif" font-size="14.00" fill="#000000">Ubuntu philosophy</text>
+</g>
+<!-- Ubuntu philosophy&#45;&gt;Heart&#45;conscious living -->
+<g id="edge10" class="edge">
+<title>Ubuntu philosophy-&gt;Heart-conscious living</title>
+<path fill="none" stroke="#000000" d="M545.7633,-505.3008C525.2063,-495.232 498.8103,-482.3034 476.7104,-471.479"/>
+<polygon fill="#000000" stroke="#000000" points="478.0518,-468.2387 467.5316,-466.9832 474.9727,-474.5252 478.0518,-468.2387"/>
+</g>
+<!-- Ubuntu philosophy&#45;&gt;New Earth -->
+<g id="edge11" class="edge">
+<title>Ubuntu philosophy-&gt;New Earth</title>
+<path fill="none" stroke="#000000" d="M616.5727,-505.7032C660.113,-483.5841 726.8575,-439.6265 726.8575,-378 726.8575,-378 726.8575,-378 726.8575,-162 726.8575,-62.8839 587.8416,-31.9753 503.9897,-22.3471"/>
+<polygon fill="#000000" stroke="#000000" points="504.1168,-18.8407 493.7995,-21.2501 503.3674,-25.8005 504.1168,-18.8407"/>
+</g>
+<!-- Supportive network&#45;&gt;Resource sharing -->
+<g id="edge15" class="edge">
+<title>Supportive network-&gt;Resource sharing</title>
+<path fill="none" stroke="#000000" d="M593.3182,-144.2022C584.0543,-135.3088 572.6953,-124.4042 562.6008,-114.7135"/>
+<polygon fill="#000000" stroke="#000000" points="564.8214,-111.9935 555.1836,-107.593 559.9736,-117.0432 564.8214,-111.9935"/>
+</g>
+<!-- Synchronistic matchmaking -->
+<g id="node14" class="node">
+<title>Synchronistic matchmaking</title>
+<ellipse fill="none" stroke="#000000" cx="579.8575" cy="-306" rx="119.2438" ry="18"/>
+<text text-anchor="middle" x="579.8575" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">Synchronistic matchmaking</text>
+</g>
+<!-- Synchronistic matchmaking&#45;&gt;Supportive network -->
+<g id="edge13" class="edge">
+<title>Synchronistic matchmaking-&gt;Supportive network</title>
+<path fill="none" stroke="#000000" d="M583.9104,-287.7623C589.3925,-263.0928 599.222,-218.8598 605.6413,-189.9731"/>
+<polygon fill="#000000" stroke="#000000" points="609.0849,-190.6108 607.8376,-180.0896 602.2516,-189.0922 609.0849,-190.6108"/>
+</g>
+<!-- Synchronistic matchmaking&#45;&gt;Professional growth -->
+<g id="edge14" class="edge">
+<title>Synchronistic matchmaking-&gt;Professional growth</title>
+<path fill="none" stroke="#000000" d="M558.1047,-288.2022C547.0219,-279.1345 533.3836,-267.9758 521.368,-258.1449"/>
+<polygon fill="#000000" stroke="#000000" points="523.3161,-255.2166 513.3601,-251.593 518.8834,-260.6343 523.3161,-255.2166"/>
+</g>
+<!-- Professional growth&#45;&gt;Collaborative work -->
+<g id="edge17" class="edge">
+<title>Professional growth-&gt;Collaborative work</title>
+<path fill="none" stroke="#000000" d="M426.6647,-221.7398C416.0395,-219.7884 405.1465,-217.8159 394.8575,-216 299.4463,-199.1608 275.2203,-197.1119 179.8575,-180 173.0997,-178.7874 166.0745,-177.4973 159.0443,-176.1863"/>
+<polygon fill="#000000" stroke="#000000" points="159.2453,-172.6629 148.7711,-174.2571 157.9534,-179.5427 159.2453,-172.6629"/>
+</g>
+</g>
+</svg>
