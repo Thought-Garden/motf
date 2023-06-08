@@ -145,7 +145,7 @@ Each category of space serves a unique function, contributing its own flavor to 
 
 ### Showcasing a New Breed of Organizations
 
-DEMOs Days at Darvoz are not just about investment and fundraising; they are about showcasing a revolutionary approach to incubating businesses. It's about presenting a new kind of organization that is more grounded, more accessible, and faster to succeed, creating models of cooperation that foster growth from the grassroots level. It's a display of a new methodology where businesses are not only more successful but are better in the sense that they reflect the diversity and dynamism of the communities from which they spring.
+DEMOs Days at Darvoz are not just about investment and fundraising; they are about showcasing a revolutionary approach to incubating businesses. It's about pesenting a new kind of organization that is more grounded, more accessible, and faster to succeed, creating models of cooperation that foster growth from the grassroots level. It's a display of a new methodology where businesses are not only more successful but are better in the sense that they reflect the diversity and dynamism of the communities from which they spring.
 
 ### Streamlined Investments through DEMOs Platform
 
