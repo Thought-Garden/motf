@@ -49,28 +49,6 @@ The Map of the Future project is a non-profit initiative that aims to unite indi
 The Map of the Future project can leverage its vast repository of data and insights to offer market research services to businesses, governments, and organizations. By providing valuable information on emerging trends, consumer behavior, and industry dynamics, the project can generate revenue through market research reports, consulting services, and data analytics solutions.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - CV
 - Linkedin
 - Marko
